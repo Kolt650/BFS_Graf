@@ -1,0 +1,7 @@
+D:\GeekBrains\Algoritm\HW_6\BFS_2\bin\Debug\BFS_2.exe.config
+D:\GeekBrains\Algoritm\HW_6\BFS_2\bin\Debug\BFS_2.exe
+D:\GeekBrains\Algoritm\HW_6\BFS_2\bin\Debug\BFS_2.pdb
+D:\GeekBrains\Algoritm\HW_6\BFS_2\obj\Debug\BFS_2.csprojAssemblyReference.cache
+D:\GeekBrains\Algoritm\HW_6\BFS_2\obj\Debug\BFS_2.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Algoritm\HW_6\BFS_2\obj\Debug\BFS_2.exe
+D:\GeekBrains\Algoritm\HW_6\BFS_2\obj\Debug\BFS_2.pdb
